@@ -1,0 +1,89 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "DeliveryTracking.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/DeliveryTracking.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DeliveryTracking.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DeliveryTracking.Data/1.0.0": {
+      "type": "project",
+      "path": "../DeliveryTracking.Data/DeliveryTracking.Data.csproj",
+      "msbuildProject": "../DeliveryTracking.Data/DeliveryTracking.Data.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "DeliveryTracking.Data >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\13179\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\ElevenFiftyProjects_177\\new-assignments\\DeliveryService\\DeliveryTracking.Database\\DeliveryTracking.Database.csproj",
+      "projectName": "DeliveryTracking.Database",
+      "projectPath": "C:\\ElevenFiftyProjects_177\\new-assignments\\DeliveryService\\DeliveryTracking.Database\\DeliveryTracking.Database.csproj",
+      "packagesPath": "C:\\Users\\13179\\.nuget\\packages\\",
+      "outputPath": "C:\\ElevenFiftyProjects_177\\new-assignments\\DeliveryService\\DeliveryTracking.Database\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\13179\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "C:\\ElevenFiftyProjects_177\\new-assignments\\DeliveryService\\DeliveryTracking.Data\\DeliveryTracking.Data.csproj": {
+              "projectPath": "C:\\ElevenFiftyProjects_177\\new-assignments\\DeliveryService\\DeliveryTracking.Data\\DeliveryTracking.Data.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

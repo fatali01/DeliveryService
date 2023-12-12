@@ -1,0 +1,11 @@
+C:\ElevenFiftyProjects_177\new-assignments\DeliveryService\DeliveryTracking.Data\bin\Debug\net7.0\DeliveryTracking.Data.deps.json
+C:\ElevenFiftyProjects_177\new-assignments\DeliveryService\DeliveryTracking.Data\bin\Debug\net7.0\DeliveryTracking.Data.dll
+C:\ElevenFiftyProjects_177\new-assignments\DeliveryService\DeliveryTracking.Data\bin\Debug\net7.0\DeliveryTracking.Data.pdb
+C:\ElevenFiftyProjects_177\new-assignments\DeliveryService\DeliveryTracking.Data\obj\Debug\net7.0\DeliveryTracking.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\ElevenFiftyProjects_177\new-assignments\DeliveryService\DeliveryTracking.Data\obj\Debug\net7.0\DeliveryTracking.Data.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects_177\new-assignments\DeliveryService\DeliveryTracking.Data\obj\Debug\net7.0\DeliveryTracking.Data.AssemblyInfo.cs
+C:\ElevenFiftyProjects_177\new-assignments\DeliveryService\DeliveryTracking.Data\obj\Debug\net7.0\DeliveryTracking.Data.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects_177\new-assignments\DeliveryService\DeliveryTracking.Data\obj\Debug\net7.0\DeliveryTracking.Data.dll
+C:\ElevenFiftyProjects_177\new-assignments\DeliveryService\DeliveryTracking.Data\obj\Debug\net7.0\refint\DeliveryTracking.Data.dll
+C:\ElevenFiftyProjects_177\new-assignments\DeliveryService\DeliveryTracking.Data\obj\Debug\net7.0\DeliveryTracking.Data.pdb
+C:\ElevenFiftyProjects_177\new-assignments\DeliveryService\DeliveryTracking.Data\obj\Debug\net7.0\ref\DeliveryTracking.Data.dll

@@ -1,0 +1,323 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\ElevenFiftyProjects_177\\new-assignments\\DeliveryService\\DeliveryTracking.UnitTest\\DeliveryTracking.UnitTest.csproj": {}
+  },
+  "projects": {
+    "c:\\ElevenFiftyProjects_177\\new-assignments\\DeliveryService\\DeliveryTracking.Database\\DeliveryTracking.Database.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\ElevenFiftyProjects_177\\new-assignments\\DeliveryService\\DeliveryTracking.Database\\DeliveryTracking.Database.csproj",
+        "projectName": "DeliveryTracking.Database",
+        "projectPath": "c:\\ElevenFiftyProjects_177\\new-assignments\\DeliveryService\\DeliveryTracking.Database\\DeliveryTracking.Database.csproj",
+        "packagesPath": "C:\\Users\\13179\\.nuget\\packages\\",
+        "outputPath": "c:\\ElevenFiftyProjects_177\\new-assignments\\DeliveryService\\DeliveryTracking.Database\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\13179\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "c:\\ElevenFiftyProjects_177\\new-assignments\\DeliveryService\\DeliveryTracking.Data\\DeliveryTracking.Data.csproj": {
+                "projectPath": "c:\\ElevenFiftyProjects_177\\new-assignments\\DeliveryService\\DeliveryTracking.Data\\DeliveryTracking.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\ElevenFiftyProjects_177\\new-assignments\\DeliveryService\\DeliveryTracking.Data\\DeliveryTracking.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\ElevenFiftyProjects_177\\new-assignments\\DeliveryService\\DeliveryTracking.Data\\DeliveryTracking.Data.csproj",
+        "projectName": "DeliveryTracking.Data",
+        "projectPath": "c:\\ElevenFiftyProjects_177\\new-assignments\\DeliveryService\\DeliveryTracking.Data\\DeliveryTracking.Data.csproj",
+        "packagesPath": "C:\\Users\\13179\\.nuget\\packages\\",
+        "outputPath": "c:\\ElevenFiftyProjects_177\\new-assignments\\DeliveryService\\DeliveryTracking.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\13179\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\ElevenFiftyProjects_177\\new-assignments\\DeliveryService\\DeliveryTracking.Repository\\DeliveryTrackingRepository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\ElevenFiftyProjects_177\\new-assignments\\DeliveryService\\DeliveryTracking.Repository\\DeliveryTrackingRepository.csproj",
+        "projectName": "DeliveryTrackingRepository",
+        "projectPath": "c:\\ElevenFiftyProjects_177\\new-assignments\\DeliveryService\\DeliveryTracking.Repository\\DeliveryTrackingRepository.csproj",
+        "packagesPath": "C:\\Users\\13179\\.nuget\\packages\\",
+        "outputPath": "c:\\ElevenFiftyProjects_177\\new-assignments\\DeliveryService\\DeliveryTracking.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\13179\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "c:\\ElevenFiftyProjects_177\\new-assignments\\DeliveryService\\DeliveryTracking.Data\\DeliveryTracking.Data.csproj": {
+                "projectPath": "c:\\ElevenFiftyProjects_177\\new-assignments\\DeliveryService\\DeliveryTracking.Data\\DeliveryTracking.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\ElevenFiftyProjects_177\\new-assignments\\DeliveryService\\DeliveryTracking.UI\\DeliveryTracking.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\ElevenFiftyProjects_177\\new-assignments\\DeliveryService\\DeliveryTracking.UI\\DeliveryTracking.UI.csproj",
+        "projectName": "DeliveryTracking.UI",
+        "projectPath": "c:\\ElevenFiftyProjects_177\\new-assignments\\DeliveryService\\DeliveryTracking.UI\\DeliveryTracking.UI.csproj",
+        "packagesPath": "C:\\Users\\13179\\.nuget\\packages\\",
+        "outputPath": "c:\\ElevenFiftyProjects_177\\new-assignments\\DeliveryService\\DeliveryTracking.UI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\13179\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "c:\\ElevenFiftyProjects_177\\new-assignments\\DeliveryService\\DeliveryTracking.Database\\DeliveryTracking.Database.csproj": {
+                "projectPath": "c:\\ElevenFiftyProjects_177\\new-assignments\\DeliveryService\\DeliveryTracking.Database\\DeliveryTracking.Database.csproj"
+              },
+              "c:\\ElevenFiftyProjects_177\\new-assignments\\DeliveryService\\DeliveryTracking.Data\\DeliveryTracking.Data.csproj": {
+                "projectPath": "c:\\ElevenFiftyProjects_177\\new-assignments\\DeliveryService\\DeliveryTracking.Data\\DeliveryTracking.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\ElevenFiftyProjects_177\\new-assignments\\DeliveryService\\DeliveryTracking.UnitTest\\DeliveryTracking.UnitTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\ElevenFiftyProjects_177\\new-assignments\\DeliveryService\\DeliveryTracking.UnitTest\\DeliveryTracking.UnitTest.csproj",
+        "projectName": "DeliveryTracking.UnitTest",
+        "projectPath": "c:\\ElevenFiftyProjects_177\\new-assignments\\DeliveryService\\DeliveryTracking.UnitTest\\DeliveryTracking.UnitTest.csproj",
+        "packagesPath": "C:\\Users\\13179\\.nuget\\packages\\",
+        "outputPath": "c:\\ElevenFiftyProjects_177\\new-assignments\\DeliveryService\\DeliveryTracking.UnitTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\13179\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "c:\\ElevenFiftyProjects_177\\new-assignments\\DeliveryService\\DeliveryTracking.Database\\DeliveryTracking.Database.csproj": {
+                "projectPath": "c:\\ElevenFiftyProjects_177\\new-assignments\\DeliveryService\\DeliveryTracking.Database\\DeliveryTracking.Database.csproj"
+              },
+              "c:\\ElevenFiftyProjects_177\\new-assignments\\DeliveryService\\DeliveryTracking.Data\\DeliveryTracking.Data.csproj": {
+                "projectPath": "c:\\ElevenFiftyProjects_177\\new-assignments\\DeliveryService\\DeliveryTracking.Data\\DeliveryTracking.Data.csproj"
+              },
+              "c:\\ElevenFiftyProjects_177\\new-assignments\\DeliveryService\\DeliveryTracking.Repository\\DeliveryTrackingRepository.csproj": {
+                "projectPath": "c:\\ElevenFiftyProjects_177\\new-assignments\\DeliveryService\\DeliveryTracking.Repository\\DeliveryTrackingRepository.csproj"
+              },
+              "c:\\ElevenFiftyProjects_177\\new-assignments\\DeliveryService\\DeliveryTracking.UI\\DeliveryTracking.UI.csproj": {
+                "projectPath": "c:\\ElevenFiftyProjects_177\\new-assignments\\DeliveryService\\DeliveryTracking.UI\\DeliveryTracking.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.7.1, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

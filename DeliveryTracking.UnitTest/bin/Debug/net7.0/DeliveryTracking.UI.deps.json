@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "DeliveryTracking.UI/1.0.0": {
+        "dependencies": {
+          "DeliveryTracking.Data": "1.0.0",
+          "DeliveryTracking.Database": "1.0.0"
+        },
+        "runtime": {
+          "DeliveryTracking.UI.dll": {}
+        }
+      },
+      "DeliveryTracking.Data/1.0.0": {
+        "runtime": {
+          "DeliveryTracking.Data.dll": {}
+        }
+      },
+      "DeliveryTracking.Database/1.0.0": {
+        "dependencies": {
+          "DeliveryTracking.Data": "1.0.0"
+        },
+        "runtime": {
+          "DeliveryTracking.Database.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DeliveryTracking.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DeliveryTracking.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DeliveryTracking.Database/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

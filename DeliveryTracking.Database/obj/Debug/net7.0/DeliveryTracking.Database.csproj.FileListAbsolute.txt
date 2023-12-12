@@ -1,0 +1,15 @@
+C:\ElevenFiftyProjects_177\new-assignments\DeliveryService\DeliveryTracking.Database\bin\Debug\net7.0\DeliveryTracking.Database.deps.json
+C:\ElevenFiftyProjects_177\new-assignments\DeliveryService\DeliveryTracking.Database\bin\Debug\net7.0\DeliveryTracking.Database.dll
+C:\ElevenFiftyProjects_177\new-assignments\DeliveryService\DeliveryTracking.Database\bin\Debug\net7.0\DeliveryTracking.Database.pdb
+C:\ElevenFiftyProjects_177\new-assignments\DeliveryService\DeliveryTracking.Database\bin\Debug\net7.0\DeliveryTracking.Data.dll
+C:\ElevenFiftyProjects_177\new-assignments\DeliveryService\DeliveryTracking.Database\bin\Debug\net7.0\DeliveryTracking.Data.pdb
+C:\ElevenFiftyProjects_177\new-assignments\DeliveryService\DeliveryTracking.Database\obj\Debug\net7.0\DeliveryTracking.Database.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects_177\new-assignments\DeliveryService\DeliveryTracking.Database\obj\Debug\net7.0\DeliveryTracking.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\ElevenFiftyProjects_177\new-assignments\DeliveryService\DeliveryTracking.Database\obj\Debug\net7.0\DeliveryTracking.Database.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects_177\new-assignments\DeliveryService\DeliveryTracking.Database\obj\Debug\net7.0\DeliveryTracking.Database.AssemblyInfo.cs
+C:\ElevenFiftyProjects_177\new-assignments\DeliveryService\DeliveryTracking.Database\obj\Debug\net7.0\DeliveryTracking.Database.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects_177\new-assignments\DeliveryService\DeliveryTracking.Database\obj\Debug\net7.0\DeliveryTracking.Database.csproj.CopyComplete
+C:\ElevenFiftyProjects_177\new-assignments\DeliveryService\DeliveryTracking.Database\obj\Debug\net7.0\DeliveryTracking.Database.dll
+C:\ElevenFiftyProjects_177\new-assignments\DeliveryService\DeliveryTracking.Database\obj\Debug\net7.0\refint\DeliveryTracking.Database.dll
+C:\ElevenFiftyProjects_177\new-assignments\DeliveryService\DeliveryTracking.Database\obj\Debug\net7.0\DeliveryTracking.Database.pdb
+C:\ElevenFiftyProjects_177\new-assignments\DeliveryService\DeliveryTracking.Database\obj\Debug\net7.0\ref\DeliveryTracking.Database.dll

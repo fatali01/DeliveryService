@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeliveryTracking.Data", "DeliveryTracking.Data\DeliveryTracking.Data.csproj", "{50546604-74FF-4AF6-9CA9-7FBA0DAF469D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeliveryTrackingRepository", "DeliveryTracking.Repository\DeliveryTrackingRepository.csproj", "{9870025A-69EF-464A-9ED4-D6933A7745D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeliveryTracking.UI", "DeliveryTracking.UI\DeliveryTracking.UI.csproj", "{A1182ACB-50AC-4356-BB67-2A841B79CDB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeliveryTracking.Database", "DeliveryTracking.Database\DeliveryTracking.Database.csproj", "{65799324-A31A-4F91-BB65-A21635AB6D66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeliveryTracking.UnitTest", "DeliveryTracking.UnitTest\DeliveryTracking.UnitTest.csproj", "{03230D07-48E1-4384-B3C2-38ACE6B2252C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50546604-74FF-4AF6-9CA9-7FBA0DAF469D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50546604-74FF-4AF6-9CA9-7FBA0DAF469D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50546604-74FF-4AF6-9CA9-7FBA0DAF469D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50546604-74FF-4AF6-9CA9-7FBA0DAF469D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9870025A-69EF-464A-9ED4-D6933A7745D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9870025A-69EF-464A-9ED4-D6933A7745D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9870025A-69EF-464A-9ED4-D6933A7745D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9870025A-69EF-464A-9ED4-D6933A7745D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1182ACB-50AC-4356-BB67-2A841B79CDB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1182ACB-50AC-4356-BB67-2A841B79CDB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1182ACB-50AC-4356-BB67-2A841B79CDB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1182ACB-50AC-4356-BB67-2A841B79CDB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65799324-A31A-4F91-BB65-A21635AB6D66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65799324-A31A-4F91-BB65-A21635AB6D66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65799324-A31A-4F91-BB65-A21635AB6D66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65799324-A31A-4F91-BB65-A21635AB6D66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03230D07-48E1-4384-B3C2-38ACE6B2252C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03230D07-48E1-4384-B3C2-38ACE6B2252C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03230D07-48E1-4384-B3C2-38ACE6B2252C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03230D07-48E1-4384-B3C2-38ACE6B2252C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
